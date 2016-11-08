@@ -1,0 +1,22 @@
+{
+  "name": "@ash-framework/todo",
+  "version": "0.0.1",
+  "description": "Example todo app",
+  "private": false,
+  "main": "app/application.js",
+  "scripts": {
+    "start": "node .",
+    "test": ""
+  },
+  "repository": "",
+  "engines": {
+    "node": ">= 0.6.7"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ash-framework/ash": "0.0.2",
+    "body-parser": "^1.15.2",
+    "standard": "^8.5.0"
+  }
+}
